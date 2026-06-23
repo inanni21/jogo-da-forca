@@ -59,7 +59,7 @@ Como executar
 Pré-requisito: ter o [Node.js](https://nodejs.org/) instalado (versão 16 ou superior recomendada).
 
 ```bash
-git clone <URL-DO-SEU-REPOSITORIO>
+git clone <https://github.com/inanni21/jogo-da-forca>
 cd jogo-da-forca
 
 npm start
